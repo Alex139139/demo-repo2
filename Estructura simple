@@ -6,15 +6,14 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>pestañaYour Website</title>
+	<title>Mi sitio Web</title>
 </head>
 
 <body>
 
 	<header>
 		<nav>
-			<ul>
-				<li>no se donde estoy</li>
+			<ul>Titulo Web</li>
 			</ul>
 		</nav>
 	</header>
